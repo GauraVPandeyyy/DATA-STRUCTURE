@@ -60,6 +60,7 @@ int main () {
      printf(" ]\n");
     }
     // CHECK IDENTICAL OR NOT 
+    //this is conditions 
     int count =0;
     if (r1==r2 && c1==c2) {
         for (int i = 0; i < r2; i++)
