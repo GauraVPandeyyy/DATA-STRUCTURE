@@ -2,7 +2,7 @@
 int main()
 {
     int size, target;
-    printf("\n''''''''''''''''''' LINEAR SEARCH '''''''''''''''''''''\n\n");
+    printf("\n''''''''''''''''''' BINARY SEARCH '''''''''''''''''''''\n\n");
     printf("Enter Size of the Array :  ");
     scanf("%d", &size);
     int searching[size];
